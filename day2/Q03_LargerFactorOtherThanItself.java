@@ -9,9 +9,10 @@ public class Q03_LargerFactorOtherThanItself {
 		int n = scan.nextInt();
 		scan.close();
 		int res=1;
-		for(int i=2;i<=n/2;i++) {
+		for(int i=n/2;i>=2;i--) {
 			if(n%i==0) {
 				res=i;
+				break;
 			}
 		}
 		System.out.println("The biggest factor of number "+n+" Other than itself is "+res);
