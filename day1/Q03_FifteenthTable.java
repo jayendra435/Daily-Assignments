@@ -1,6 +1,6 @@
 package day1;
 
-public class FifteenthTable {
+public class Q03_FifteenthTable {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub

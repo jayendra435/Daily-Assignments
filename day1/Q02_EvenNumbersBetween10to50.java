@@ -1,6 +1,6 @@
 package day1;
 
-public class EvenNumbersBetween10to50 {
+public class Q02_EvenNumbersBetween10to50 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub

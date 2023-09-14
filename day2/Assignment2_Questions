@@ -1,0 +1,11 @@
+1. Accept day of a week and number of hours worked and calculate the wage.
+     1,2,3 --- Rs200
+      4,5  --- Rs400
+        6  --- Rs600
+        7  --- Rs800
+    1 to 7 is Monday to Friday.
+   if total amount exceeds Rs2000 then there will be a bonus of 10%.  (Use Switch Expression)
+2. Accept five number's from user and display average of number's.
+3. Accept the number and display the largest factor other than the number.
+4. Accept the number and display the number in reverse order.
+5. Create an array of 5 elements store values into it by taking them from keyboard and display them in reverse order.

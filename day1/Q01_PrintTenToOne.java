@@ -1,6 +1,6 @@
 package day1;
 
-public class PrintTenToOne {
+public class Q01_PrintTenToOne {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
