@@ -1,0 +1,9 @@
+1. Create a function that takes a set of integers and return the largest of integers.
+2. Create a function that takes multiple number's and display common factors.
+3.Consider command line arguments num, length. Print the table for the given number Upto the given lenth If length is not given as input you need to take default length
+through command line arguments .
+4. Create a class to store details of a product and provide required methods with the details prod_id, prod_name, price,quan_on_hand
+methods are: init(prod_id,prod_name, price)
+             getNetPrice()(returns the price after adding 12% tax)
+             purchase()
+             sell()
