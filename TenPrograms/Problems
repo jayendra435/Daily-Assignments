@@ -1,0 +1,15 @@
+Try to write programs to accomplish the following tasks.
+1. Display first 10 Fibonacci numbers.
+2. Display all palindrome numbers in the range 1000 to 2000.
+3. Write a program to take a number from user and display whether it is a perfect
+number.
+4. Accept ten numbers from user and display the largest of the given numbers.
+5. Accept two numbers and display the GCD of the numbers.
+6. Accept two numbers on command line and raise base (first number) to power
+(second number).
+7. Accept a number and display its highest factor.
+8. Accept a number and display the digits in reverse order.
+9. Create a function that takes a set of integers using varying length argument and
+returns the average of all the numbers.
+10. Create an array of 10 elements. Read values from keyboard and fill the array.
+Interchange first 5 elements with last 5 elements and display the array.
