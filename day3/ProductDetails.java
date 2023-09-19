@@ -1,23 +1,23 @@
 package day3;
 
 public class ProductDetails {
-	private static 	int prod_id;
-	private static int prod_price;
-	private static String prod_name;
-	private static int quan_on_hand=1;//defaulty lets have one quantity of product 
+	private int prod_id;
+	private int prod_price;
+	private String prod_name;
+	private int quan_on_hand=1;//defaulty lets have one quantity of product 
 	
-	public static void init(int pid,String pname,int pprice) {
+	public void init(int pid,String pname,int pprice) {
 		prod_id = pid;
 		prod_name = pname;
 		prod_price = pprice;
 	}
 	
-	public static int getNetPrice() {
+	public int getNetPrice() {
 		double val =(prod_price+( prod_price*0.12));
 		return (int)val;
 	}
 	
-	public static void sell() {
+	public void sell() {
 		if(quan_on_hand==0) {
 			System.out.println("Product id:: "+prod_id+"\nProduct name :: "+prod_name);
 			System.out.println("There are no products left to sell\n");
@@ -30,7 +30,7 @@ public class ProductDetails {
 		}
 	}
 	
-	public static void purchage() {
+	public void purchage() {
 		quan_on_hand++;
 		System.out.println("Product id:: "+prod_id+"\nProduct name :: "+prod_name);
 		System.out.println("The items left are :: "+quan_on_hand+"\n");

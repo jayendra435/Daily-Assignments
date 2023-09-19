@@ -1,0 +1,6 @@
+1. Introduce multiple constructor in product class.
+2. Create a class called counter that stores a number and provides methods to increment, decrement and return the count. Provide the constructor without parameters that sets the values to zero and another constructor with parameters takes the values and starts from there.
+3. Create a class Student that stores the details like admin_no, stu_name, course_joined and fees_paid.
+   Courses are: JAVA, PYTHON. the total fees for java is 10k and for python is 7.5k.
+   Provide constructor to take required details.The default course is JAVA.
+   Provide following methods: getTotalFee(), getDue(), getFeePaid(), payment(amount).
