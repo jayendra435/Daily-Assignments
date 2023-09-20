@@ -1,0 +1,7 @@
+1. Go through the program in page no 78.
+2. Create a student class page no 80.
+3. Create a sub-class called FactoryEmployee, for all factory employees we need to store bus_no, emp_boards.Create a super-class related to this sub class.
+4. Create classes to store details for two different types of Products,
+   a) ImportedProducts which has import duty.
+   b) DiscountedProducts which has discount rate.
+ All products have name and base_price.Create required Constructors and following methods: print(), getNetPrice(), setPrice(), setImportDuty(), setDiscountRate() also experiment with upcasting and downcasting.
