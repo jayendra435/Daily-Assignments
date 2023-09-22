@@ -1,0 +1,6 @@
+1. Go through the program in page no 95 and check for RunTime polymorphism.
+2. Guess the random number in three attempts. Design a program for this, range is (1 to 25).
+3. Create an array of 10 elements fill it with random no and display array elements which are greater than average of array.
+4. Accept a string from user and display it vertically. use nextLine() to read a string from user.
+5. Accept a string that contains marks separated by commas and display total.
+6. Accept a string and display the position of space for all spaces.
