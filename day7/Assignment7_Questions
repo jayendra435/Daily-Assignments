@@ -1,0 +1,8 @@
+1. Take a String and invert the case of characters.
+2. Go to previous class and override equals(), toString(), hashCode().
+3. Accept names until end is given and display all the names separated by '-'.
+4. Accept starting date and ending date in DD-MM-YYYY format and display no of days between those two.
+5.accept 5 dates in dd-mm-yyyy format and display the sorted dates
+6.Accept two dates and display number of days between those two dates. Dates must
+be accepted in dd-mm-yyyy format.
+7.Accept Strings until empty string is given And display the largest String.
