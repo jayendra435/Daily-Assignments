@@ -3,7 +3,7 @@ import java.util.Random;
 public class Q03_DisplayElementsGreaterThanAverage {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		
 		System.out.println("The array is :: ");
 		int [] arr = new int[10];
 		Random rand = new Random();
