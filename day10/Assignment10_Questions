@@ -1,0 +1,6 @@
+1. Accept some numbers from user until 'O' and display sum of +ve numbers.
+2. Accept names from user until 'END' is given and write them into names.txt as one name for line.
+3. Accept a filename from user and display how many uppercase, lowercase and digits the file has.
+4. Display lines that contains morethan 5 characters.
+5. Go through the program in page 207.
+6. File Marks.txt, which have marks separated by comma in different lines.Find the total marks of each line and display them.(Use fault tolerance)
