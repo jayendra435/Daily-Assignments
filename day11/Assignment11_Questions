@@ -1,0 +1,7 @@
+1. Write 20 marks into Marks.data.
+2. Accept rollno and display marks.
+3. Accept rollno and display marks and allow user to enter new marks and change marks.
+4. Accept a file and convert its contents to uppercase.(write in compact way)
+5. Take names from names.txt & display unique names in sorted order.
+6. Assume names1.txt & names2.txt where we have one name for line & display unique names from both the files in the order they appear.
+7. Create a class called circle with x&y radius, Now create Hashset & insert circle objects with some duplicates, and also use treeset for the same for circle objects and see what happens.
