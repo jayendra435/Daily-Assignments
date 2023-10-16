@@ -1,0 +1,3 @@
+1. Create an interface called account operation with methods deposit, getBalance.Implement this interface in account class.
+2. Make person objects sortable by age.
+3. Design classes that need to sort collection of product objects either by product name or by price.
